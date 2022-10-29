@@ -1,2 +1,2 @@
 # Tindog-Marvsmint
-A website created while taking Angela Yus course
+An assignment Tindog website created using HTML and CSS while taking Angela Yus course
